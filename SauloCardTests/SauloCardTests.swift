@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import SauloCard
+//@testable import SauloCard
 
 class SauloCardTests: XCTestCase {
 

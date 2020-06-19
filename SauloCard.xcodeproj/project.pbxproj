@@ -15,6 +15,7 @@
 		04D362AD249D2C9D0009F863 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04D362AB249D2C9D0009F863 /* LaunchScreen.storyboard */; };
 		04D362B8249D2C9E0009F863 /* SauloCardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D362B7249D2C9E0009F863 /* SauloCardTests.swift */; };
 		04D362C3249D2C9E0009F863 /* SauloCardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D362C2249D2C9E0009F863 /* SauloCardUITests.swift */; };
+		04D362D1249D37950009F863 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D362D0249D37950009F863 /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		04D362BE249D2C9E0009F863 /* SauloCardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SauloCardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04D362C2249D2C9E0009F863 /* SauloCardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SauloCardUITests.swift; sourceTree = "<group>"; };
 		04D362C4249D2C9E0009F863 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04D362D0249D37950009F863 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				04D362A0249D2C9A0009F863 /* AppDelegate.swift */,
 				04D362A2249D2C9A0009F863 /* SceneDelegate.swift */,
 				04D362A4249D2C9A0009F863 /* ContentView.swift */,
+				04D362D0249D37950009F863 /* InfoView.swift */,
 				04D362A6249D2C9D0009F863 /* Assets.xcassets */,
 				04D362AB249D2C9D0009F863 /* LaunchScreen.storyboard */,
 				04D362AE249D2C9D0009F863 /* Info.plist */,
@@ -267,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D362D1249D37950009F863 /* InfoView.swift in Sources */,
 				04D362A1249D2C9A0009F863 /* AppDelegate.swift in Sources */,
 				04D362A3249D2C9A0009F863 /* SceneDelegate.swift in Sources */,
 				04D362A5249D2C9A0009F863 /* ContentView.swift in Sources */,
